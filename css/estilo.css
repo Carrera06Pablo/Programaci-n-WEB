@@ -13,7 +13,12 @@ strong {
     color:brown;
 }
 
-ul{
+dl{
     color:rgb(80, 63, 4);
     font-size: medium;
+}
+
+dt{
+    color: rgb(88, 8, 8);
+    font-size: larger;
 }
