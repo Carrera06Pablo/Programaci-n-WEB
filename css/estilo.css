@@ -12,3 +12,8 @@ p {
 strong {
     color:brown;
 }
+
+ul{
+    color:rgb(80, 63, 4);
+    font-size: medium;
+}
