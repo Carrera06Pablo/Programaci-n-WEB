@@ -2,17 +2,20 @@
     margin: 0 auto;
     width: max-content;
     background-color:aquamarine;
+    text-align: justify;
 }
 
 ul{
-    text-align: center;
+    text-align: justify;
     list-style-position: inside;
 }
 
-
-
 footer{
     text-align: center;
-    color: brown;
+    color: black;
+    background-color: rgb(182, 131, 229);
 }
 
+dl{
+    text-align: justify;
+}
